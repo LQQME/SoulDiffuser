@@ -1,6 +1,7 @@
 # Code is about to be open-sourced ：SoulDiffuser
 
 ## OverView
+
 In the field of neuroscience, the reconstruction of natural images from fMRI signals has remained a central research challenge.
 Existing approaches typically flatten volumetric fMRI data into lower-dimensional representations, which leads to a loss of
 spatial information, compromising reconstruction accuracy and interpretability. Unlike prior methods that rely on such flat-
@@ -16,6 +17,7 @@ including visual, textual, and color-texture data, to guide the diffusion proces
 visual cognition. Experimental results demonstrate that SoulDiffuser significantly outperforms existing state-of-the-art models
 both qualitatively and quantitatively on the Natural Scenes Dataset benchmark, further underscoring the impact of retaining
 volumetric data and dual-stream insights for enhanced image reconstruction.
+
 ![nc-31](Figure/nc-31.jpg)
 
 ## Requirements
@@ -34,6 +36,9 @@ conda activate SoulDiffuser
 
 The **SoulDiffuser** model was evaluated using the **Natural Scenes Dataset (NSD)**. The dataset and the necessary code to access it are available in the NSD repository. You can access the dataset and related information at [http://naturalscenesdataset.org](http://naturalscenesdataset.org).
 
+## Acknowledgments
+
+The authors would like to express their gratitude for the support provided by the **National Key Research and Development Program of China** (No. 2024YFE0210600), the **National Natural Science Foundation of China** (No. 62373343), and the **Beijing Natural Science Foundation** (No. L233036).
 
 
 
