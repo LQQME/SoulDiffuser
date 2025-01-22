@@ -1,6 +1,6 @@
 ## SoulDiffuser
 
-n the field of neuroscience, the reconstruction of natural images from fMRI signals has remained a central research challenge.
+In the field of neuroscience, the reconstruction of natural images from fMRI signals has remained a central research challenge.
 Existing approaches typically flatten volumetric fMRI data into lower-dimensional representations, which leads to a loss of
 spatial information, compromising reconstruction accuracy and interpretability. Unlike prior methods that rely on such flat-
 tened representations, our proposed approach preserves the 3D structure of fMRI signals, enabling more accurate alignment
