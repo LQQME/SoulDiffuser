@@ -1,4 +1,4 @@
-## SoulDiffuser
+## Code is about to be open-sourced
 
 In the field of neuroscience, the reconstruction of natural images from fMRI signals has remained a central research challenge.
 Existing approaches typically flatten volumetric fMRI data into lower-dimensional representations, which leads to a loss of
