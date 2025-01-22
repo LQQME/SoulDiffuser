@@ -30,6 +30,9 @@ conda activate SoulDiffuser
 ![nc-31](Figure/nc-41.jpg)
 ![nc-31](Figure/nc-42.jpg)
 
+## Data Availability
+
+The **SoulDiffuser** model was evaluated using the **Natural Scenes Dataset (NSD)**. The dataset and the necessary code to access it are available in the NSD repository. You can access the dataset and related information at [http://naturalscenesdataset.org](http://naturalscenesdataset.org).
 
 
 
