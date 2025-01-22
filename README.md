@@ -1,6 +1,4 @@
-# Code is about to be open-sourced
-# SoulDiffuser: Decoding Neural Representations for Precise Natural Image Reconstruction from fMRI
-
+# Code is about to be open-sourced ：SoulDiffuser
 
 ## OverView
 In the field of neuroscience, the reconstruction of natural images from fMRI signals has remained a central research challenge.
