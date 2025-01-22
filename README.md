@@ -1,6 +1,7 @@
-## SoulDiffuser
+# Code is about to be open-sourced ：SoulDiffuser
 
-n the field of neuroscience, the reconstruction of natural images from fMRI signals has remained a central research challenge.
+## OverView
+In the field of neuroscience, the reconstruction of natural images from fMRI signals has remained a central research challenge.
 Existing approaches typically flatten volumetric fMRI data into lower-dimensional representations, which leads to a loss of
 spatial information, compromising reconstruction accuracy and interpretability. Unlike prior methods that rely on such flat-
 tened representations, our proposed approach preserves the 3D structure of fMRI signals, enabling more accurate alignment
@@ -15,5 +16,21 @@ including visual, textual, and color-texture data, to guide the diffusion proces
 visual cognition. Experimental results demonstrate that SoulDiffuser significantly outperforms existing state-of-the-art models
 both qualitatively and quantitatively on the Natural Scenes Dataset benchmark, further underscoring the impact of retaining
 volumetric data and dual-stream insights for enhanced image reconstruction.
-
 ![nc-31](Figure/nc-31.jpg)
+
+## Requirements
+
+A suitable conda environment named SoulDiffuser can be created and activated with:
+```bash
+conda env create -f environment.yaml
+conda activate SoulDiffuser
+```
+
+## Reuslts
+![nc-31](Figure/nc-41.jpg)
+![nc-31](Figure/nc-42.jpg)
+
+
+
+
+
